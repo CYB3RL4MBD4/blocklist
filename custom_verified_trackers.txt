@@ -1,0 +1,15 @@
+# Title	: CYB3RL4MBD4 - custom_verified_trackers List
+#
+# URL		: https://CYB3RL4MBD4.github.io/blocklist/custom_verified_trackers.txt)
+#
+# Homepage	: https://CYB3RL4MBD4.github.io/blocklist/
+#
+# License	: https://unlicense.org
+#
+# Custom verified trackers
+# Verified on https://whotracks.me
+
+yieldlove-ad-serving.net
+yieldlove.com
+exelator.com
+pubmatic.com

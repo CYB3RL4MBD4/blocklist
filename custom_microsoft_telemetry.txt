@@ -1,0 +1,30 @@
+# Title	: CYB3RL4MBD4 - custom_microsoft_telemetry List
+#
+# URL		: https://CYB3RL4MBD4.github.io/blocklist/custom_microsoft_telemetry.txt)
+#
+# Homepage	: https://CYB3RL4MBD4.github.io/blocklist/
+#
+# License	: https://unlicense.org
+#
+
+# Microsoft Telemetry domains
+geo.settings-win.data.microsoft.com.akadns.net
+db5-eap.settings-win.data.microsoft.com.akadns.net
+settings-win.data.microsoft.com
+db5.settings-win.data.microsoft.com.akadns.net
+asimov-win.settings.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
+v10-win.vortex.data.microsft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsft.com
+us.vortex-win.data.microsft.com
+eu.vortex-win.data.microsft.com
+alpha.telemetry.microsft.com
+vortex-win-sandbox.data.microsoft.com
+oca.telemetry.microsft.com
+weus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+ceuswatcab01.blob.core.windows.net

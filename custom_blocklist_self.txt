@@ -1,0 +1,40 @@
+# Title	: CYB3RL4MBD4 - custom_blocklist_self List
+#
+# URL		: https://CYB3RL4MBD4.github.io/blocklist/custom_blocklist_self.txt)
+#
+# Homepage	: https://CYB3RL4MBD4.github.io/blocklist/
+#
+# License	: https://unlicense.org
+#
+
+# Custom
+20min.xilinus.com
+adservice.google.ch
+adnxs.com
+arc.msn.com
+c2.u5c93.com
+ets-eu-west-1.track.smaato.net
+fra1-mobile.adnxs.com
+gate.hockeyapp.net
+mesu.g.aaplimg.com
+r.teads.tv
+smaato.net
+sina.com.cn
+upload.omnivirt.com
+zalando.com
+
+# Braze
+phillateemis.iad-03.braze.com
+iad-01.braze.com
+iad-02.braze.com
+iad-03.braze.com
+iad-04.braze.com
+iad-05.braze.com
+iad-06.braze.com
+ra-01.braze.eu
+
+# Trackers
+tracker.opentrackr.org
+opentrackr.org
+graph.facebook.com
+graph.instagram.com
