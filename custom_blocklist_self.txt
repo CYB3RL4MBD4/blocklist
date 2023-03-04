@@ -38,3 +38,6 @@ tracker.opentrackr.org
 opentrackr.org
 graph.facebook.com
 graph.instagram.com
+
+# Phishing
+kontentopro.com
